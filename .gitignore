@@ -2,3 +2,5 @@
 .stfolder/syncthing-folder-175762.txt
 .stignore
 *Options*
+MW*
+!MW_022B*
